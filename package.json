@@ -1,5 +1,5 @@
 {
-  "name": "drop-down-menu-package",
+  "name": "@justin2172021/drop-down-menu-package",
   "version": "1.0.0",
   "description": "A simple drop down menu package using HTML CSS and JavaScript",
   "main": "index.js",
